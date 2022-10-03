@@ -1,0 +1,1 @@
+PRINT [/D:device] [[drive:][path]filename[...]]
