@@ -1,0 +1,1 @@
+sfc [/scannow] [/scanonce] [/scanboot] [/revert] [/purgecache] [/cachesize=x]

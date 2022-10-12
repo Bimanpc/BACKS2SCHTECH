@@ -1,0 +1,1 @@
+fc [/a] [/b] [/c] [/l] [/lbn] [/n] [/t] [/u] [/w] [/nnnn] [drive1:][path1]filename1 [drive2**:**][path2]filename2
