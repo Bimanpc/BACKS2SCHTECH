@@ -1,0 +1,1 @@
+nslookup www.bing.com
